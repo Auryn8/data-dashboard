@@ -98,6 +98,24 @@ padding: .0.25em;
   outline: none;
 }
 
+/* Dando estilo a las secciones*/
+
+.secciones {
+    float:right;
+    padding-right: 100px;
+    margin:20px;
+}
+
+.caja {
+    background: #f7b617;
+    display: inline-block;
+    height: 300px;
+    padding: 10px;
+    margin: 5px;
+    width: 300px;
+}
+
+
 
 /*Menu section
 .menu {
